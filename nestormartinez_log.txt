@@ -1,0 +1,59 @@
+commit 7a04cd5a9aaf8a5d0c45e757a8cc881d48f79fba
+Author: Andres Martinez <nestorandres1102@gmail.com>
+Date:   Tue Apr 11 19:03:32 2023 -0500
+
+    Update index.html
+
+commit 35932b92e77ea2f6e0ce2feb906baf5106e21abc
+Author: Andres Martinez <nestorandres1102@gmail.com>
+Date:   Tue Apr 11 18:59:48 2023 -0500
+
+    Update index.html
+
+commit 45575058f2453920440901e58d9e7f03f9dff3ab
+Author: Andres Martinez <nestorandres1102@gmail.com>
+Date:   Tue Apr 11 18:56:17 2023 -0500
+
+    Update index.html
+
+commit f05653625a2281d537d75aef65c712a99b993685
+Author: Andres Martinez <nestorandres1102@gmail.com>
+Date:   Tue Apr 11 18:50:29 2023 -0500
+
+    Update index.html
+
+commit 9679d820a14f1d54dbfa952959f1053e0763ff4e
+Author: Andres Martinez <nestorandres1102@gmail.com>
+Date:   Tue Apr 11 18:46:29 2023 -0500
+
+    Update index.html
+
+commit 566fef12fdf71962936278976e8d97acc7054c14
+Author: Andres Martinez <nemartinez7@poligran.edu.co>
+Date:   Thu Apr 6 20:31:43 2023 -0500
+
+    Update index.html
+
+commit 8be458915f97333d16e0d1dc5d970dd730efa174
+Author: Andres Martinez <nemartinez7@poligran.edu.co>
+Date:   Thu Apr 6 20:30:37 2023 -0500
+
+    Update index.html
+
+commit 55ad614a4557cb2311b855d1cb9446164f783348
+Author: Andres Martinez <nemartinez7@poligran.edu.co>
+Date:   Thu Apr 6 20:29:28 2023 -0500
+
+    Create readme.md
+
+commit 813461e270d1644ad09ac18a0fffbac54b650f83
+Author: Andres Martinez <nemartinez7@poligran.edu.co>
+Date:   Thu Apr 6 20:28:31 2023 -0500
+
+    Update index.html
+
+commit c2e3901ee040e7ce7f1236db79cb80137a963c1f
+Author: Nestor Andres Martinez <nemartinez7@poligran.edu.co>
+Date:   Thu Apr 6 20:18:10 2023 -0500
+
+    upload html file to show in pages
